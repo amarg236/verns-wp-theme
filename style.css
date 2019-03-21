@@ -1,0 +1,42 @@
+
+/*
+ Theme Name:   Vern's A-QCleaning Websit Theme
+ Theme URI:    https://www.lsbdc.org/ulm
+ Description:  Theme for Vern's cleaning services
+ Author:       Bidhan Bhandari, Sonam Gurung
+ Author URI:   http://sonamgurung.me
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+body{
+background-color: blue;
+}
+
+header#masthead.site-header {
+    background-color: black;
+}
+
+.verns-image{
+    width: 100%;
+    height: 800px;
+}
+.verns-image img{
+    position: absolute;
+    object-fit: contain;
+}
+.verns-image p{
+    
+    position: absolute;
+    top:800px;
+    
+
+}
+
+.title1{
+    
+}
